@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amzar</h1>
-<h3 align="center">Analytic and Automation Engineer</h3>
+<h3 align="center">Data & Analytics Engineer</h3>
 
 - 📫 How to reach me **me@mohdamzar.com**
 
